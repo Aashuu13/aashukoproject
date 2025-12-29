@@ -1,0 +1,5 @@
+a=input('enter phone number:')
+print('*'*22)
+print('orignal phone number:',a)
+print('masked phone number:',a.replace(a[0:6],'*'*6).center(len(a),'*'))
+print('*'*22)

@@ -14,3 +14,5 @@
 a=10
 b=20
 print
+#indexing shows in which number the element is present
+#slicing shows from which number to which number the element is present

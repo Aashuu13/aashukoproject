@@ -36,7 +36,7 @@
 #new_input=user_input[:5]+"human"  slicing method
 #print(new_input)
 
-user_input='spiderman' #maketrans with tranlslate changes sinle letter
+user_input='spiderman' #maketrans with tranlslate changes single letter
 result=user_input.maketrans('s','S')
 print(user_input.translate(result))
 
@@ -78,3 +78,12 @@ user_input= input("enter your email")
 result=user_input.replace("@gmail.com"," ")      #ask user for email 
 result=result.replace(".","")
 print(result)
+#class type shows datatype of variable
+#lencounts no of characters
+#dictionary stores data in key value pair
+#count counts no of characters or words
+#replace method replaces word with another word
+#remove prefix method removes starting of word
+#split method splits word at space
+#join method joins word with given characters
+#

@@ -13,3 +13,4 @@ print(name.upper())
 RESULT= name.center(20,'a')
 
 print(RESULT)
+#formatting in python 
